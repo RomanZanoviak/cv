@@ -1,7 +1,7 @@
 **CURRICULM VITAE**
 
 **_Personal information_**  
-[Roman_photo](img/Roman_photo.jpg)  
+![Roman_photo](img/Roman_photo.jpg)  
 Name: Roman Zanoviak
 
 ---
