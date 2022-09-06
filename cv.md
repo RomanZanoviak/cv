@@ -21,16 +21,17 @@ Phone: +380633333333
 
 **_Skills_**
 
-**Programming languages / Technologies** | **Development Tools**
+| **Programming languages / Technologies** |
+| :--------------------------------------- |
+| 1. HTML5, CSS3                           |
+| 2. JavaScript                            |
+| 3. Bootstrap                             |
 
-1. HTML5, CSS3 | 1. Visual Studio code
+| **Development Tools** | **Github**                                         |
+| :-------------------- | :------------------------------------------------- |
+| Visual Studio code    | [@RomanZanoviak](https://github.com/RomanZanoviak) |
 
-2. JavaScript | 2. Sublime Text
-
-3. Bootstrap
-
-**Github**  
- My [Github](https://github.com/RomanZanoviak)
+**Github**
 
 ---
 
