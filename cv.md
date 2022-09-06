@@ -2,8 +2,11 @@
 
 **_Personal information_**  
 [Roman_photo](img/Roman_photo.jpg)  
-Name: Roman Zanoviak  
-**Contacts**
+Name: Roman Zanoviak
+
+---
+
+**Contacts**  
 Country: Ukraine  
 Phone: +380630276788  
 E-mail: [zanoviakr@gmail.com](zanoviakr@gmail.com)  
