@@ -1,17 +1,23 @@
 **CURRICULM VITAE**
 
 **_Personal information_**
-
-Name: Roman Zanoviak
-E-mail: [zanoviakr@gmail.com](zanoviakr@gmail.com)
-Country: Ukraine
-Phone: +380633333333
+[Roman_photo](img/Roman_photo.jpg)
+Name: Roman Zanoviak  
+**Contacts**
+Country: Ukraine  
+Phone: +380630276788  
+E-mail: [zanoviakr@gmail.com](zanoviakr@gmail.com)  
+Discord: Roman Zanoviak (#5395)
 
 ---
 
 **_Education_**
 
-- 2016 – 2021 Lviv Politechnic University Field of study: Radio Electronic Devices and Systems
+2016 – 2021 Lviv Politechnic University Field of study: Radio Electronic Devices and Systems
+
+---
+
+**_Courses_**
 
 - certificate from SoftServe - HTML5/CSS3/JavaScript Fundamentals
 
@@ -31,7 +37,19 @@ Phone: +380633333333
 | :-------------------- | :------------------------------------------------- |
 | Visual Studio code    | [@RomanZanoviak](https://github.com/RomanZanoviak) |
 
-**Github**
+**Code**
+
+```
+function solution(number){
+  let sum = 0;
+  for(let i = 0; i < number; i++){
+    if (i % 3 === 0 || i % 5 ===0){
+      sum += i
+    }
+  }
+  return sum;
+}
+```
 
 ---
 
