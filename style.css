@@ -1,16 +1,36 @@
 body {
   margin: 0;
   padding: 0;
+  font-family: "Yanone Kaffeesatz", sans-serif;
+  font-size: 25px;
+}
+h1 {
+  color: coral;
+}
+h3 {
+  font-style: italic;
+  color: burlywood;
 }
 a {
   text-decoration: none;
+  color: white;
+}
+a:hover {
+  color: #800000;
+  text-decoration: underline;
 }
 .container {
   text-align: center;
+  color: white;
+  background-color: black;
 }
 td {
   border: 1px solid black;
 }
 #myPhoto {
   border-radius: 50%;
+}
+table {
+  margin-left: auto;
+  margin-right: auto;
 }
