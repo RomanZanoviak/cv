@@ -54,6 +54,9 @@ function solution(number){
 }
 ```
 
+**_Projects_**  
+[CV](https://RomanZanoviak.github.io/rsschool-cv/cv)
+
 ---
 
 **_Languages_**
